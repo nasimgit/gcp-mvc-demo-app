@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "mssql1": {
-      "type": "mssql.local",
-      "connectionId": "ConnectionStrings:gcp_mvc_demo_appContext"
-    }
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "mssql1": {
-      "type": "mssql",
-      "connectionId": "ConnectionStrings:gcp_mvc_demo_appContext"
-    }
-  }
-}

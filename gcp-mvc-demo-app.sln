@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcp-mvc-demo-app", "gcp-mvc-demo-app\gcp-mvc-demo-app.csproj", "{30C9585F-1640-42D1-8D77-6A0A88B3531A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcp-mvc-demo-app", "gcp-mvc-demo-app.csproj", "{CBEAC934-4E2E-4691-A3B0-9C830C9DB80E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{30C9585F-1640-42D1-8D77-6A0A88B3531A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30C9585F-1640-42D1-8D77-6A0A88B3531A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30C9585F-1640-42D1-8D77-6A0A88B3531A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30C9585F-1640-42D1-8D77-6A0A88B3531A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEAC934-4E2E-4691-A3B0-9C830C9DB80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEAC934-4E2E-4691-A3B0-9C830C9DB80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEAC934-4E2E-4691-A3B0-9C830C9DB80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEAC934-4E2E-4691-A3B0-9C830C9DB80E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CEE73B5D-FC90-45D9-BA56-52BD29283A33}
+		SolutionGuid = {B54BE11B-75BF-41B7-A71D-6F3FE7573F11}
 	EndGlobalSection
 EndGlobal
