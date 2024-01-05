@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jYn3UYWu0wO92wv0ID2H75z6GdVGehu80opG68xiWI4R3GE3allJ8Hz/LGmcjmwiDt4LcUWtgexU06sBJSMZsQ==",
+  "dgSpecHash": "K6K9uZ5tfiiIzKVAeUl013rZPLg1NWcGo/X87o+2q+IvWnOCnyAjZAamd0MmhYhhL5PERbQqN4f/12eJA7gG3g==",
   "success": true,
   "projectFilePath": "D:\\GCP - Google Cloud Certification\\gcp-mvc-demo-app\\gcp-mvc-demo-app\\gcp-mvc-demo-app.csproj",
   "expectedPackageFiles": [
@@ -105,6 +105,7 @@
     "C:\\Users\\Nasim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Nasim\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Nasim\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Nasim\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\Nasim\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\7.0.11\\microsoft.visualstudio.web.codegeneration.7.0.11.nupkg.sha512",
     "C:\\Users\\Nasim\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\7.0.11\\microsoft.visualstudio.web.codegeneration.core.7.0.11.nupkg.sha512",
     "C:\\Users\\Nasim\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\7.0.11\\microsoft.visualstudio.web.codegeneration.design.7.0.11.nupkg.sha512",
