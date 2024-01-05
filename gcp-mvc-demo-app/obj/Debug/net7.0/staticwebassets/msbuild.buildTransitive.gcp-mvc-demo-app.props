@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\gcp-mvc-demo-app.props" />
+</Project>

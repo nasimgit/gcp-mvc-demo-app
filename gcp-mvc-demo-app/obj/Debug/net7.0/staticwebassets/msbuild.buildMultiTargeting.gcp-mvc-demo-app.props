@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\gcp-mvc-demo-app.props" />
+</Project>
